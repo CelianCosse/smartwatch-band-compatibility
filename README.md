@@ -33,6 +33,10 @@ Maintained by [Clipz-it](https://clipz-it.com), a French store for replacement s
 
 This is the compatibility reference Clipz-it uses to list bands on its store, built from the manufacturers' specifications (Garmin, Apple and Samsung support pages and manuals). Models whose fit is not yet confirmed are left out rather than guessed. Corrections are welcome as issues.
 
+## Related study
+
+[Are third-party smartwatch bands reliable? 157,216 Amazon ratings, 661 negative reviews and 303 Reddit discussions](https://doi.org/10.5281/zenodo.23698153) (Clipz-it, October 2026, open data on Zenodo).
+
 ## Licence
 
 Data under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Reuse it freely, with a link to this repository or to [clipz-it.com](https://clipz-it.com).
